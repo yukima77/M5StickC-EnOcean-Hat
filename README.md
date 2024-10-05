@@ -22,5 +22,8 @@ M5StickC用のEnOceanHatです。TCM410Jを搭載しています。
 ![M5StickC_Front](https://github.com/yukima77/M5StickC-EnOcean-Hat/blob/images/img_m5stickc_front.jpg)
 ![M5StickC_Back](https://github.com/yukima77/M5StickC-EnOcean-Hat/blob/images/img_m5stickc_back.jpg)
 
+## バージョン情報
+2024.10.1：v1.1リリース
+
 ## License
 This software is released under the MIT License, see LICENSE.
